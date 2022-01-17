@@ -20,7 +20,7 @@ Make sure your users always find what they are looking for. Enhance WordPress wi
 
 ## Usage
 
-For help with installing plugins please refer to our [Plugin installation guide](https://premium.wpmudev.org/wpmu-manual/installing-regular-plugins-on-wpmu/). Once installed login to your admin panel for WordPress or Multisite and activate the plugin:
+For help with installing plugins please refer to our [Plugin installation guide](https://wpmudev.com/docs/using-wordpress/installing-wordpress-plugins/). Once installed login to your admin panel for WordPress or Multisite and activate the plugin:
 
 *   On regular WordPress installs – visit **Plugins** and **Activate** the plugin.
 *   For WordPress Multisite installs – Activate it blog-by-blog (say if you wanted to make it a [Pro Sites](https://premium.wpmudev.org/project/pro-sites/ "Pro Sites plugin for WordPress") plugin), or visit **Network Admin > Plugins** and **Network Activate** the plugin.
